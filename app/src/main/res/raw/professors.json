@@ -1,0 +1,271 @@
+{
+  "professors": [
+    {
+      "id": "687a58ab-1d73-4d4a-beae-68516b948fd7",
+      "name": "Dr. Monisha Pulimood",
+      "image": "https://computerscience.tcnj.edu/wp-content/uploads/sites/205/2012/12/monishapulimood.jpg",
+      "info": {
+        "title": "Professor and Chair",
+        "office": "STEM 200A",
+        "email": "pulimood@tcnj.edu",
+        "personal_website": "http://www.tcnj.edu/~pulimood/"
+      },
+      "education": [
+        "Ph.D. - Computer Science - Tulane University",
+        "M.S. - Computer Science - Tulane University",
+        "B.S. - Computer Science - University of Pune"
+      ],
+      "year_joined": 2002,
+      "research_interests": [
+        "Collective intelligence, web-based data management, CS Education."
+      ],
+      "research_projects": [
+        "CABPortal: Collaborative infrastructure to support my NSF-funded grant, leveraging concepts from artificial intelligence and social computational systems, such as human computation, crowdsourcing, and the collective intelligence of large numbers of humans, to improve the reliability and integrity of the hosted data and resources."
+      ]
+    },
+    {
+      "id": "c95a98c4-ca5a-4cc6-a978-79099173de1c",
+      "name": "Dr. Deborah Knox",
+      "image": "https://computerscience.tcnj.edu/wp-content/uploads/sites/205/2012/12/debknox.jpg",
+      "info": {
+        "title": "Associate Professor",
+        "office": "STEM 205",
+        "email": "knox@tcnj.edu",
+        "personal_website": "http://www.tcnj.edu/~knox/"
+      },
+      "education": [
+        "Ph.D. - Computer Science - Iowa State University",
+        "M.S. - Computer Science - Iowa State University",
+        "B.S. - Medical Technology - Moravian College"
+      ],
+      "year_joined": 1999,
+      "research_interests": [
+        "Digital Libraries",
+        "Web Accessibility",
+        "Cluster Computing",
+        "CS Education"
+      ],
+      "research_projects": null
+    },
+    {
+      "id": "f1868cb8-f5de-4e29-9db5-f730263be0c4",
+      "name": "Dr. Dimitris Papamichail",
+      "image": "https://computerscience.tcnj.edu/wp-content/uploads/sites/205/2014/01/dimitris2.jpg",
+      "info": {
+        "title": "Associate Professor",
+        "office": "STEM 207",
+        "email": "papamicd@tcnj.edu",
+        "personal_website": "http://www.tcnj.edu/~papamicd/"
+      },
+      "education": [
+        "Ph.D. - Computer Science - Stony Brook University",
+        "M.S. - Computer Science - University of Arizona",
+        "B.E. - Computer Engineering and Informatics - University of Patras"
+      ],
+      "year_joined": 2004,
+      "research_interests": [
+        "Applied Algorithms",
+        "Data Structures",
+        "Computational Biology"
+      ],
+      "research_projects": [
+        "Algorithms for Synthetic Gene Library Design",
+        "Advancing Computational Phylogenetic Stemmatics"
+      ]
+    },
+    {
+      "id": "b4faffd3-6c73-4240-a0b4-42436c09e9bf",
+      "name": "Dr. Andrea Salgian",
+      "image": "https://computerscience.tcnj.edu/wp-content/uploads/sites/205/2012/12/andreasalgian.jpg",
+      "info": {
+        "title": "Professor",
+        "office": "STEM 201",
+        "email": "salgian@tcnj.edu",
+        "personal_website": "http://www.tcnj.edu/~salgian/"
+      },
+      "education": [
+        "Ph.D. - Computer Science - University of Rochester",
+        "M.S. - Computer Science - University of Rochester",
+        "B.E. - Computer Science - Babes-Bolyai University"
+      ],
+      "year_joined": 2005,
+      "research_interests": [
+        "Human Computer Interaction",
+        "Computer Vision",
+        "Artificial Intelligence"
+      ],
+      "research_projects": [
+        "Conducting Tutor",
+        "American Sign Language recognition",
+        "Communicating through gestures"
+      ]
+    },
+    {
+      "id": "64e0b727-c316-4200-afbe-1d6957b39bca",
+      "name": "Dr. Michael Bloodgood",
+      "image": "https://computerscience.tcnj.edu/wp-content/uploads/sites/205/2016/08/Bloodgood-e1482351362295.png",
+      "info": {
+        "title": "Assistant Professor",
+        "office": "STEM 206",
+        "email": "mbloodgood@tcnj.edu",
+        "personal_website": "http://www.tcnj.edu/~bloodgm1/"
+      },
+      "education": [
+        "Ph.D. - Computer Science - University of Rochester",
+        "M.S. - Computer Science - University of Rochester",
+        "B.E. - Computer Science - Babes-Bolyai University"
+      ],
+      "year_joined": 2012,
+      "research_interests": [
+        "Data Science",
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      "research_projects": [
+        "Data Science",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "id": "bcc63f35-c653-400e-a012-3d302191b999",
+      "name": "Dr. Jikai Li",
+      "image": "https://computerscience.tcnj.edu/wp-content/uploads/sites/205/2012/12/jikaili.jpg",
+      "info": {
+        "title": "Associate Professor",
+        "office": "STEM 202",
+        "email": "jli@tcnj.edu",
+        "personal_website": "http://www.tcnj.edu/~jli/"
+      },
+      "education": [
+        "Ph.D. – Computer Science – State University of New York at Buffalo",
+        "M.Eng. – Computer Science – Chinese Academy of Sciences",
+        "B.S. – Computer Science – Wuhan University"
+      ],
+      "year_joined": 2008,
+      "research_interests": [
+        "Optical networks",
+        "Scheduling Problem in Network",
+        "Network Performance Evaluation",
+        "IP over Optical Networks",
+        "Optical Burst Switching (OBS)"
+      ],
+      "research_projects": null
+    },
+    {
+      "id": "9b477e41-2e58-45f2-8fc4-c15a911908eb",
+      "name": "Dr. Sejong Yoon",
+      "image": "https://computerscience.tcnj.edu/wp-content/uploads/sites/205/2018/08/Yoon.jpg",
+      "info": {
+        "title": "Assistant Professor",
+        "office": "STEM 208",
+        "email": "yoons@tcnj.edu",
+        "personal_website": "http://www.tcnj.edu/~yoons/"
+      },
+      "education": [
+        "Ph.D. – Computer Science, Rutgers University",
+        "M.S. – Computer Science and Engineering, Sogang University",
+        "B.E. – Computer Science, Sogang University"
+      ],
+      "year_joined": 2015,
+      "research_interests": [
+        "Statistical Machine Learning",
+        "Computer Vision",
+        "Multimedia & Informatics"
+      ],
+      "research_projects": [
+        "Neuro-Cognitive Modeling of Environments and Humans (NUCLEUM)"
+      ]
+    },
+    {
+      "id": "9b19f084-a186-46fe-9296-2284c7d75b5f",
+      "name": "Dr. Uddipan Das",
+      "image": "https://computerscience.tcnj.edu/wp-content/uploads/sites/205/2020/08/Uddipan_Das-269x300.jpg",
+      "info": {
+        "title": "Assistant Professor",
+        "office": "STEM 243",
+        "email": "dasu@tcnj.edu",
+        "personal_website": "http://www.tcnj.edu/~dasu/"
+      },
+      "education": [
+        "Ph.D. – Electrical Engineering and Computer Science, Wichita State University",
+        "M.E. – Software Engineering, Jadavpur University",
+        "B.Tech – Computer Science and Engineering, West Bengal University of Technology"
+      ],
+      "year_joined": 2020,
+      "research_interests": [
+        "Smart Grid Communication Networks",
+        "Accessible Computing",
+        "Assistive Technologies",
+        "Smart Cities"
+      ],
+      "research_projects": null
+    },
+    {
+      "id": "4c270467-5c52-4d4a-8785-09fa4a16eea1",
+      "name": "Dr. Sharif Mohammad Shahnewaz Ferdous",
+      "image": "https://computerscience.tcnj.edu/wp-content/uploads/sites/205/2018/08/ShahnewazFerdous-1-226x300.jpg",
+      "info": {
+        "title": "Assistant Professor",
+        "office": "STEM 203",
+        "email": "sharif.shahnewaz@tcnj.edu",
+        "personal_website": null
+      },
+      "education": [
+        "Ph.D. – Computer Science, University of Texas at San Antonio",
+        "B.S.- Computer Science and Engineering, Bangladesh University of Engineering and Technology"
+      ],
+      "year_joined": 2018,
+      "research_interests": [
+        "Virtual Reality",
+        "Augmented Reality",
+        "Game Development",
+        "Interactive Computer Graphics"
+      ],
+      "research_projects": null
+    },
+    {
+      "id": "6fb2cefb-a9b7-481b-9a74-8384c564167d",
+      "name": "Professor John DeGood",
+      "image": "https://computerscience.tcnj.edu/wp-content/uploads/sites/205/2018/08/tcnj-1-228x300.jpg",
+      "info": {
+        "title": "Lecturer",
+        "office": "STEM 242",
+        "email": "degood@tcnj.edu",
+        "personal_website": null
+      },
+      "education": [
+        "M.S. – Computer Science, University of Delaware",
+        "B.S. – Chemistry, University of Missouri Rolla"
+      ],
+      "year_joined": 2018,
+      "research_interests": null,
+      "research_projects": null
+    },
+    {
+      "id": "74d5b951-a9a0-45a2-b8d8-c6b285368ecd",
+      "name": "Dr. Bikram Pal Kaur Turka",
+      "image": "https://computerscience.tcnj.edu/wp-content/uploads/sites/205/2020/08/Bikram-Headshot-Cropped-229x300.jpg",
+      "info": {
+        "title": "Lecturer",
+        "office": "STEM 119",
+        "email": "kaurturb@tcnj.edu",
+        "personal_website": null
+      },
+      "education": [
+        "Ph.D. – Computer Technology and Engineering, Punjabi University Patiala",
+        "M.S. – Computer Science, Chaudhary Devi Lal University",
+        "B.Tech – Computer Science, Punjabi University Patiala"
+      ],
+      "year_joined": 2020,
+      "research_interests": [
+        "Data Mining",
+        "Soft Computing (Artificial Intelligence and Fuzzy Systems)",
+        "Information Systems",
+        "Enterprise Resource Planning",
+        "Data Analytics"
+      ],
+      "research_projects": null
+    }
+  ]
+}
